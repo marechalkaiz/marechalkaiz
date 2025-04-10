@@ -22,7 +22,7 @@
   Tech Stack
 </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,go,c,cpp,js,ts,nodejs,java,vim,docker,linux,windows&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch,fastapi,go,c,cpp,rust,actix,java,scala,spring,ts,nodejs,bun,nextjs,elixir,clojure,mysql,sqlite,postgres,bash,powershell,docker,kubernetes,linux,arch,windows,neovim,vscode&perline=15)](https://skillicons.dev)
 
 <!--
 ![Static Badge](https://img.shields.io/badge/apache-red?style=for-the-badge&logo=apache&logoColor=%23FFFFFF&labelColor=%23D22128&color=%23D22128)
