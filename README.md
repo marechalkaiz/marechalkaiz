@@ -22,20 +22,25 @@
   Tech Stack
 </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch,fastapi,go,c,cpp,rust,actix,java,scala,spring,ts,nodejs,bun,nextjs,ruby,elixir,clojure,mysql,sqlite,postgres,bash,powershell,docker,kubernetes,linux,windows,neovim,vscode&perline=15)](https://skillicons.dev)
-
 <!--
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch,fastapi,go,c,cpp,rust,actix,java,scala,spring,ts,nodejs,bun,nextjs,ruby,elixir,clojure,mysql,sqlite,postgres,bash,powershell,docker,kubernetes,linux,windows,neovim,vscode&perline=15)](https://skillicons.dev)
+-->
+
 ![Static Badge](https://img.shields.io/badge/apache-red?style=for-the-badge&logo=apache&logoColor=%23FFFFFF&labelColor=%23D22128&color=%23D22128)
+![Static Badge](https://img.shields.io/badge/arch_linux-blue?style=for-the-badge&logo=archlinux&logoColor=%23ffffff&color=%231793D1)
 ![Static Badge](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=%23FFFFFF&labelColor=%237952B3&color=%237952B3)
+![Static Badge](https://img.shields.io/badge/bun-black?style=for-the-badge&logo=bun&logoColor=%23ffffff&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/c-gray?style=for-the-badge&logo=c&logoColor=%23FFFFFF&labelColor=%23A8B9CC&color=%23A8B9CC)
 ![Static Badge](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=%23FFFFFF&labelColor=%2300599C&color=%2300599C)
+![Static Badge](https://img.shields.io/badge/clojure-blue?style=for-the-badge&logo=clojure&logoColor=%23ffffff&color=%235881D8)
 ![Static Badge](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=%23FFFFFF&labelColor=%231572B6&color=%231572B6)
-![Static Badge](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&labelColor=%23A81D33&color=%23A81D33)
 ![Static Badge](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=%23FFFFFF&labelColor=%232496ED&color=%232496ED)
 ![Static Badge](https://img.shields.io/badge/duckdb-yelllow?style=for-the-badge&logo=duckdb&logoColor=%23000000&labelColor=%23FFF000&color=%23FFF000)
+![Static Badge](https://img.shields.io/badge/elixir-purple?style=for-the-badge&logo=elixir&logoColor=%23FFFFFF&labelColor=%234B275F&color=%234B275F)
+![Static Badge](https://img.shields.io/badge/fastapi-turquoise?style=for-the-badge&logo=fastapi&logoColor=%23ffffff&color=%23009688)
 ![Static Badge](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&labelColor=%2302569B&color=%2302569B)
 ![Static Badge](https://img.shields.io/badge/freebsd-red?style=for-the-badge&logo=freebsd&logoColor=%23FFFFFF&labelColor=%23AB2B28&color=%23AB2B28)
-![Static Badge](https://img.shields.io/badge/go-blue?style=for-the-badge&logo=go&logoColor=%23FFFFFF&labelColor=%2300ADD8&color=%2300ADD8)
+![Static Badge](https://img.shields.io/badge/go-blue?style=for-the-badge&logo=go&logoColor=%23ffffff&color=%2300ADD8)
 ![Static Badge](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&labelColor=%23E34F26&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=%23000000&labelColor=%23F7DF1E&color=%23F7DF1E)
@@ -48,19 +53,21 @@
 ![Static Badge](https://img.shields.io/badge/polars-orange?style=for-the-badge&logo=polars&logoColor=%23FFFFFF&labelColor=%23CD792C&color=%23CD792C)
 ![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=%23FFFFFF&labelColor=%233776AB&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/pytorch-red?style=for-the-badge&logo=pytorch&logoColor=%23FFFFFF&labelColor=%23EE4C2C&color=%23EE4C2C)
+![Static Badge](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=ruby&labelColor=%23CC342D&color=%23CC342D)
+![Static Badge](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000)
+![Static Badge](https://img.shields.io/badge/scala-red?style=for-the-badge&logo=scala&logoColor=%23ffffff&color=%23DC322F)
 ![Static Badge](https://img.shields.io/badge/scikitlearn-orange?style=for-the-badge&logo=scikitlearn&logoColor=%23FFFFFF&labelColor=%23F7931E&color=%23F7931E)
 ![Static Badge](https://img.shields.io/badge/shell-green?style=for-the-badge&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23%234EAA25&color=%23%234EAA25)
 ![Static Badge](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=%23FFFFFF&labelColor=%236DB33F&color=%236DB33F)
 ![Static Badge](https://img.shields.io/badge/sqlite-blue?style=for-the-badge&logo=sqlite&logoColor=%23FFFFFF&labelColor=%23003B57&color=%23003B57)
 ![Static Badge](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=%23FFFFFF&labelColor=%23FF6F00&color=%23FF6F00)
 ![Static Badge](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF&labelColor=%233178C6&color=%233178C6)
--->
 
-<!-- ![Static Badge](https://img.shields.io/badge/elixir-purple?style=for-the-badge&logo=elixir&logoColor=%23FFFFFF&labelColor=%234B275F&color=%234B275F) -->
+<!-- 
 <!-- ![Static Badge](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=%23FFFFFF&labelColor=%23FF2D20&color=%23FF2D20) -->
 <!-- ![Static Badge](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=%23FFFFFF&labelColor=%23777BB4&color=%23777BB4) -->
-<!-- ![Static Badge](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=ruby&labelColor=%23CC342D&color=%23CC342D) -->
-<!-- ![Static Badge](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000) -->
+<!--  -->
+<!-- 
 <!-- ![Static Badge](https://img.shields.io/badge/bun-black?style=for-the-badge&logo=bun&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000) -->
 <!--  -->
 
