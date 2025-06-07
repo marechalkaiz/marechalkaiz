@@ -8,7 +8,7 @@
 
 <ul>
   <li>
-    💻 Interests: 
+    💭 Interests: 
     <ul>
       <li>Mathematics</li>
       <li>Computational Physics</li>
@@ -23,7 +23,7 @@
     </ul>
   </li>
   <li>
-    🎯 I am currently learning about: <b>deep learning</b>, <b>cryptography</b>, <b>reverse engineering</b>, <b>distributed systems</b>, and <b>backend development</b>.
+    🖥️ I mostly code in <b>Python</b>, <b>C++</b>, and <b>Go</b>.
   </li>
   <li>
     ⚡ <b>Fun fact</b>: I don't drink coffee.
