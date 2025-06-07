@@ -8,7 +8,19 @@
 
 <ul>
   <li>
-    💻 Interests: <b>machine learning</b>, <b>cybersecurity</b>, <b>mathematics</b>, and <b>many more</b>.
+    💻 Interests: 
+    <ul>
+      <li>Mathematics</li>
+      <li>Computational Physics</li>
+      <li>Image Processing</li>
+      <li>Reinforcement Learning</li>
+      <li>Multi-Agent Systems</li>
+      <li>Natural Language Processing</li>
+      <li>Cryptography</li>
+      <li>Reverse Engineering</li>
+      <li>High-Performance Computing</li>
+      <li>Quantum Computing</li>
+    </ul>
   </li>
   <li>
     🎯 I am currently learning about: <b>deep learning</b>, <b>cryptography</b>, <b>reverse engineering</b>, <b>distributed systems</b>, and <b>backend development</b>.
