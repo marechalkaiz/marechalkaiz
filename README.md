@@ -6,29 +6,21 @@
   My name is <b>Kaiz</b> (of course it is my pen name). I'm a computer scientist wannabe with many interests. You can know more about me on my <a href="http://admiralkaiz.github.io">personal website</a>.
 </p>
 
-<ul>
-  <li>
-    💭 Interests: 
-    <ul>
-      <li>Mathematics</li>
-      <li>Computational Physics</li>
-      <li>Image Processing</li>
-      <li>Reinforcement Learning</li>
-      <li>Multi-Agent Systems</li>
-      <li>Natural Language Processing</li>
-      <li>Cryptography</li>
-      <li>Reverse Engineering</li>
-      <li>High-Performance Computing</li>
-      <li>Quantum Computing</li>
-    </ul>
-  </li>
-  <li>
-    🖥️ I mostly code in <b>Python</b>, <b>C++</b>, and <b>Go</b>.
-  </li>
-  <li>
-    ⚡ <b>Fun fact</b>: I don't drink coffee.
-  </li>
-</ul>
+<p>
+  Some of my interests are:
+  <ul>
+    <li>Mathematical Optimization</li>
+    <li>Computational Physics</li>
+    <li>Image Processing</li>
+    <li>Reinforcement Learning</li>
+    <li>Cryptography</li>
+    <li>Reverse Engineering</li>
+    <li>High Performance Computing</li>
+    <li>Quantum Computing</li>
+  </ul>
+</p>
+
+
 
 <h2>
   Tech Stack
