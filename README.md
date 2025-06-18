@@ -10,9 +10,9 @@
   Some of my interests are:
   <ul>
     <li>Mathematical Optimization</li>
-    <li>Computational Physics</li>
     <li>Image Processing</li>
-    <li>Reinforcement Learning</li>
+    <li>Machine Learning</li>
+    <li>Multi-Agent Systems</li>
     <li>Cryptography</li>
     <li>Reverse Engineering</li>
     <li>High Performance Computing</li>
