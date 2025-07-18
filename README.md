@@ -9,10 +9,9 @@
 <p>
   Some of my interests are:
   <ul>
-    <li>Mathematics (Calculus, Topology, Abstract Algebra, and Optimization)</li>
-    <li>Physics (More precisely, Astrophysics)</li>
+    <li>Physics</li>
+    <li>Mathematical Optimization</li>
     <li>MLOps</li>
-    <li>Multi-Agent Systems</li>
     <li>Cryptography</li>
     <li>Reverse Engineering</li>
     <li>High Performance Computing</li>
