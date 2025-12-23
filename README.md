@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  𝖂𝖎𝖑𝖑𝖐𝖔𝖒𝖒𝖊𝖓 𝖆𝖚𝖋 𝖒𝖊𝖎𝖓𝖊𝖒 𝕻𝖗𝖔𝖋𝖎𝖑
+</p>
+
 <p align="center"> 
 <img src="mamitomoe.gif" style="display: block; margin: 0 auto" />
 </p>
