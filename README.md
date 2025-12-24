@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <details>
     <summary> <code>(Click to expand) Interests:</code> </summary>
     <blockquote>
-      Mathematics (combinatorics, probability theory, tensor calculus, differential equations), physics (especially astrophysics), statistics, information theory, game theory, data mining, database systems, machine learning, DevOps, UNIX-like operating systems, functional programming, image processing, cryptography, network security, distributed systems, multi-agent systems, HPC, quantum computing, scientific computing, scientific research, computational thinking, critical thinking, literature, linguistics, animecore, moe artstyle, manga drawing, magical girl, dark fantasy, games, martial arts, philosophy, history, religious studies, cooking
+      Mathematics (combinatorics, probability theory, tensor calculus, differential equations), physics (especially astrophysics), statistics, information theory, game theory, data mining, database systems, machine learning, DevOps, UNIX-like operating systems, image processing, cryptography, network security, distributed systems, multi-agent systems, HPC, quantum computing, scientific computing, scientific research, computational thinking, critical thinking, literature, linguistics, animecore, moe artstyle, manga drawing, magical girl, dark fantasy, games, martial arts, philosophy, history, religious studies, cooking
     </blockquote>
   </details>
 </p>
@@ -75,6 +75,9 @@ Here are some ideas to get you started:
   <a href="https://fastapi.tiangolo.com/">
     <img src="https://img.shields.io/badge/fastapi-green?style=for-the-badge&logo=fastapi&logoColor=%23FFFFFF&color=%23009688" />
   </a>
+  <a href="https://go.dev/">
+    <img src="https://img.shields.io/badge/go-blue?style=for-the-badge&logo=go&logoColor=%23ffffff&color=%2300ADD8" />
+  </a>
   <a href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=%23FFFFFF&color=%2300599C" />
   </a>
@@ -87,14 +90,8 @@ Here are some ideas to get you started:
   <a href="https://bun.sh/">
     <img src="https://img.shields.io/badge/bun-black?style=for-the-badge&logo=bun&logoColor=%23FFFFFF&color=%23000000" />
   </a>
-  <a href="https://fsharp.org/">
-    <img src="https://img.shields.io/badge/f%23-blue?style=for-the-badge&logo=fsharp&logoColor=%23FFFFFF&color=%23378BBA" />
-  </a>
   <a href="https://elixir-lang.org/">
     <img src="https://img.shields.io/badge/elixir-purple?style=for-the-badge&logo=elixir&logoColor=%23FFFFFF&color=%234B275F" />
-  </a>
-  <a href="https://clojure.org/">
-    <img src="https://img.shields.io/badge/clojure-blue?style=for-the-badge&logo=clojure&logoColor=%23FFFFFF&color=%235881D8" />
   </a>
   <a href="https://duckdb.org/">
     <img src="https://img.shields.io/badge/duckdb-yellow?style=for-the-badge&logo=duckdb&logoColor=%23000000&color=%23FFF000" />
@@ -116,6 +113,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<!-- <img src="https://img.shields.io/badge/go-blue?style=for-the-badge&logo=go&logoColor=%23ffffff&color=%2300ADD8" /> -->
 <!-- <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=%23ffffff&color=%23000000" /> -->
 <!-- <img src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=%23ffffff&color=%236DB33F" /> -->
