@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <details>
     <summary> <code>(Click to expand) Interests:</code> </summary>
     <blockquote>
-      Mathematics (combinatorics, probability theory, tensor calculus, differential equations), physics (especially astrophysics), statistics, information theory, game theory, data mining, database systems, machine learning, DevOps, UNIX-like operating systems, image processing, cryptography, network security, distributed systems, multi-agent systems, HPC, quantum computing, scientific computing, scientific research, computational thinking, critical thinking, literature, linguistics, animecore, moe artstyle, manga drawing, magical girl, dark fantasy, games, martial arts, philosophy, history, religious studies, cooking
+      Mathematics (combinatorics, probability theory, functional analysis, mathematical physics, optimization), astrophysics, statistics, information theory, game theory, data engineering, data mining, machine learning, DevOps, UNIX-like operating systems, image processing, cryptography, distributed systems, HPC, quantum computing, scientific computing, science research, computational thinking, critical thinking, literature, linguistics, story telling, animecore, manga drawing, magical girl, dark fantasy, games, martial arts, physical wellbeing, philosophy, history, religious studies, cooking, sustainability
     </blockquote>
   </details>
 </p>
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
   <a href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=%23FFFFFF&color=%2300599C" />
   </a>
-  <a href="https://www.typescriptlang.org/">
+  <!-- <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF&color=%233178C6" />
   </a>
   <a href="https://nodejs.org/">
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://bun.sh/">
     <img src="https://img.shields.io/badge/bun-black?style=for-the-badge&logo=bun&logoColor=%23FFFFFF&color=%23000000" />
-  </a>
+  </a> -->
   <a href="https://elixir-lang.org/">
     <img src="https://img.shields.io/badge/elixir-purple?style=for-the-badge&logo=elixir&logoColor=%23FFFFFF&color=%234B275F" />
   </a>
