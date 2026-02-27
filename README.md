@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <details>
     <summary> <code>(Click to expand) Interests:</code> </summary>
     <blockquote>
-      Mathematics (combinatorics, probability theory, functional analysis, mathematical physics, optimization), astrophysics, statistics, information theory, game theory, data engineering, data mining, machine learning, DevOps, UNIX-like operating systems, image processing, cryptography, distributed systems, HPC, quantum computing, scientific computing, science research, computational thinking, critical thinking, literature, linguistics, story telling, animecore, manga drawing, magical girl, dark fantasy, games, martial arts, physical wellbeing, philosophy, history, religious studies, cooking, sustainability
+      Mathematics (calculus, linear algebra, differential equations, optimization, mathematical physics, functional analysis), astrophysics, statistics, information theory, game theory, data engineering, data mining, machine learning, MLOps, UNIX-like operating systems, image and signal processing, cryptography, distributed systems, HPC, quantum computing, scientific computing, scientific research, computational thinking, critical thinking, literature, linguistics, story telling, animecore, manga drawing, magical girl, dark fantasy, games, martial arts, philosophy, history, hacker culture
     </blockquote>
   </details>
 </p>
@@ -78,10 +78,16 @@ Here are some ideas to get you started:
   <a href="https://go.dev/">
     <img src="https://img.shields.io/badge/go-blue?style=for-the-badge&logo=go&logoColor=%23ffffff&color=%2300ADD8" />
   </a>
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=%23FFFFFF&color=%2300599C" />
+  <a href="https://gin-gonic.com/en/">
+    <img src="https://img.shields.io/badge/gin-blue?style=for-the-badge&logo=gin&logoColor=%23FFFFFF&color=%23008ECF">
   </a>
-  <!-- <a href="https://www.typescriptlang.org/">
+  <a href="https://www.c-language.org/">
+    <img src="https://img.shields.io/badge/c-gray?style=for-the-badge&logo=c&logoColor=%23FFFFFF&color=%23A8B9CC" />
+  </a>
+  <a href="https://rust-lang.org/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=%23FFFFFF&color=%23000000">
+  </a>
+  <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF&color=%233178C6" />
   </a>
   <a href="https://nodejs.org/">
@@ -89,10 +95,10 @@ Here are some ideas to get you started:
   </a>
   <a href="https://bun.sh/">
     <img src="https://img.shields.io/badge/bun-black?style=for-the-badge&logo=bun&logoColor=%23FFFFFF&color=%23000000" />
-  </a> -->
-  <a href="https://elixir-lang.org/">
-    <img src="https://img.shields.io/badge/elixir-purple?style=for-the-badge&logo=elixir&logoColor=%23FFFFFF&color=%234B275F" />
   </a>
+  <!-- <a href="https://elixir-lang.org/">
+    <img src="https://img.shields.io/badge/elixir-purple?style=for-the-badge&logo=elixir&logoColor=%23FFFFFF&color=%234B275F" />
+  </a> -->
   <a href="https://duckdb.org/">
     <img src="https://img.shields.io/badge/duckdb-yellow?style=for-the-badge&logo=duckdb&logoColor=%23000000&color=%23FFF000" />
   </a>
