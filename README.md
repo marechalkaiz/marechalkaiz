@@ -87,6 +87,9 @@ Here are some ideas to get you started:
   <a href="https://rust-lang.org/">
     <img alt="Static Badge" src="https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=%23FFFFFF&color=%23000000">
   </a>
+  <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">
+    <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23F7DF1E" />
+  </a>
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF&color=%233178C6" />
   </a>
@@ -95,6 +98,15 @@ Here are some ideas to get you started:
   </a>
   <a href="https://bun.sh/">
     <img src="https://img.shields.io/badge/bun-black?style=for-the-badge&logo=bun&logoColor=%23FFFFFF&color=%23000000" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/react-cyan?style=for-the-badge&logo=react&logoColor=%23000000&color=%2361DAFB" />
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/php-lavender?style=for-the-badge&logo=php&logoColor=%23FFFFFF&color=%23777BB4" />
+  </a>
+  <a href="https://laravel.com/">
+    <img src="https://img.shields.io/badge/laravel-orange?style=for-the-badge&logo=laravel&logoColor=%23FFFFFF&color=%23FF2D20" />
   </a>
   <!-- <a href="https://elixir-lang.org/">
     <img src="https://img.shields.io/badge/elixir-purple?style=for-the-badge&logo=elixir&logoColor=%23FFFFFF&color=%234B275F" />
@@ -110,6 +122,9 @@ Here are some ideas to get you started:
   </a>
   <a href="https://sqlite.org/">
     <img src="https://img.shields.io/badge/sqlite-blue?style=for-the-badge&logo=sqlite&logoColor=%23FFFFFF&color=%23003B57" />
+  </a>
+  <a href="https://redis.io/">
+    <img src="https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=%23FFFFFF&color=%23FF4438" />
   </a>
   <a href="https://valkey.io/">
     <img src="https://img.shields.io/badge/valkey-indigo?style=for-the-badge&color=%232D2471" />
