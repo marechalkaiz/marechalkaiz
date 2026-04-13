@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <ul>
     <li> 👤 My pen name (or screen name) is <code>Kaiz</code>. I'm a <b>computer scientist</b> wannabe with many interests. </li>
     <li> 💼 Currently I'm working as a <b>data analyst and engineer</b>, and act as a <b>software developer</b> for my side projects. </li>
-    <li> ✨ I like to combine <b>mathematics</b>, <b>computer science</b>, and <b>physics</b> to solve problems. </li>
+    <li> 🧠 I like to combine <b>mathematics</b>, <b>computer science</b>, and <b>physics</b> to solve problems. </li>
   </ul>
 </p>
 
@@ -39,7 +39,42 @@ Here are some ideas to get you started:
   <details>
     <summary> <code>(Click to expand) Interests:</code> </summary>
     <blockquote>
-      Mathematics (calculus, linear algebra, differential equations, optimization, mathematical physics, functional analysis), astrophysics, statistics, information theory, game theory, data engineering, data mining, machine learning, MLOps, UNIX-like operating systems, image and signal processing, cryptography, distributed systems, HPC, quantum computing, scientific computing, scientific research, computational thinking, critical thinking, literature, linguistics, story telling, animecore, manga drawing, magical girl, dark fantasy, games, martial arts, philosophy, history, hacker culture
+      Mathematical Physics (including topics like: Functional Analysis
+      - Linear Algebra
+      - Calculus
+      - Differential Equations
+      - Tensor Calculus
+      - Group Theory
+      - Topology)
+      - Mathematical Optimization
+      - Statistics
+      - Astrophysics
+      - Information Theory
+      - Data Engineering
+      - Data Mining
+      - Digital Image Processing
+      - Cybersecurity
+      - Cryptography (and Cipherpunk)
+      - UNIX-like Operating Systems
+      - AI
+      - Machine Learning
+      - MLOps
+      - Distributed Systems
+      - Scientific Computing
+      - Quantum Computing
+      - Scientific Research
+      - Computational Thinking
+      - Critical Thinking
+      - Literature
+      - Story Telling
+      - Language Learning
+      - Science Fiction
+      - Military Fiction
+      - Dark Fantasy
+      - Magical Girl
+      - Animecore
+      - Philosophy
+      - History
     </blockquote>
   </details>
 </p>
