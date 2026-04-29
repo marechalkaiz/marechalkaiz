@@ -25,6 +25,17 @@ Here are some ideas to get you started:
 <img src="mamitomoe.gif" style="display: block; margin: 0 auto" />
 </p>
 
+<p align="center">
+<details>
+  <summary>
+    Visitor Count
+  </summary>
+  <p align="center">
+    <img src="https://count.getloli.com/get/@marechalkaiz?theme=booru-jaypee" />
+  </p>
+</details>
+</p>
+
 ---
 
 <p>
