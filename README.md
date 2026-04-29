@@ -46,7 +46,7 @@ Here are some ideas to get you started:
       - Tensor Calculus
       - Group Theory
       - Topology)
-      - Mathematical Optimization
+      - Discrete Mathematics
       - Statistics
       - Astrophysics
       - Information Theory
@@ -79,10 +79,78 @@ Here are some ideas to get you started:
   </details>
 </p>
 
-<h2>
-  🖥️ Tech Stack
-</h2>
-<p align="center">
+<details>
+  <summary>
+    <h2>
+      🖥️ Tech Stack
+    </h2>
+  </summary>
+
+  <h3>Programming</h3> 
+  <p>
+    <a href="https://go-skill-icons.vercel.app/">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,php,js,ts,c,cpp,go,java,r" />
+    </a>
+  </p>
+
+  <h3>Scripting</h3> 
+  <p>
+    <a href="https://go-skill-icons.vercel.app/">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,powershell" />
+    </a>
+  </p>
+  
+  <h3>Data Science, AI, and ML</h3> 
+  <p>
+    <a href="https://go-skill-icons.vercel.app/">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,polars,scipy,jax,scikitlearn,pytorch,tensorflow,jupyter,opencv,matplotlib,seaborn" />
+    </a>
+  </p>
+
+  <h3>Frontend</h3> 
+  <p>
+    <a href="https://go-skill-icons.vercel.app/">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,tailwind,bootstrap,vue" />
+    </a>
+  </p>
+
+  <h3>Backend</h3> 
+  <p>
+    <a href="https://go-skill-icons.vercel.app/">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,bun,elysia,gin,fastapi,spring" />
+    </a>
+  </p>
+
+  <h3>Database</h3> 
+  <p>
+    <a href="https://go-skill-icons.vercel.app/">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite,mysql,mongodb,duckdb,redis" />
+    </a>
+  </p>
+
+  <h3>DevOps</h3> 
+  <p>
+    <a href="https://go-skill-icons.vercel.app/">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=podman,kubernetes" />
+    </a>
+  </p>
+
+  <h3>Operating Systems</h3> 
+  <p>
+    <a href="https://go-skill-icons.vercel.app/">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,ubuntu,windows" />
+    </a>
+  </p>
+
+  <h3>Miscellaneous</h3> 
+  <p>
+    <a href="https://go-skill-icons.vercel.app/">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,wsl,vscode,vscodium,vim,neovim,postman" />
+    </a>
+  </p>
+
+</details>
+<!-- <p align="center">
   <a href="https://kernel.org/">
     <img src="https://img.shields.io/badge/linux-yellow?style=for-the-badge&logo=linux&logoColor=%23000000&color=%23FCC624" />
   </a>
@@ -146,7 +214,7 @@ Here are some ideas to get you started:
   <!-- <a href="https://elixir-lang.org/">
     <img src="https://img.shields.io/badge/elixir-purple?style=for-the-badge&logo=elixir&logoColor=%23FFFFFF&color=%234B275F" />
   </a> -->
-  <a href="https://duckdb.org/">
+  <!-- <a href="https://duckdb.org/">
     <img src="https://img.shields.io/badge/duckdb-yellow?style=for-the-badge&logo=duckdb&logoColor=%23000000&color=%23FFF000" />
   </a>
   <a href="https://mariadb.org/">
@@ -167,7 +235,7 @@ Here are some ideas to get you started:
   <a href="https://podman.io/">
     <img src="https://img.shields.io/badge/podman-purple?style=for-the-badge&logo=podman&logoColor=%23FFFFFF&color=%23892CA0" />
   </a>
-</p>
+</p> -->
 
 <!-- <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=%23ffffff&color=%23000000" /> -->
 <!-- <img src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=%23ffffff&color=%236DB33F" /> -->
