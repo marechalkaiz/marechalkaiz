@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     Visitor Count
   </summary>
   <p align="center">
-    <img src="https://count.getloli.com/get/@marechalkaiz?theme=booru-jaypee" />
+    <img src="https://count.getloli.com/@marechalkaiz?name=marechalkaiz&theme=booru-jaypee&padding=7&offset=0&align=top&scale=0.75&pixelated=1&darkmode=auto" />
   </p>
 </details>
 </p>
