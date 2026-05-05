@@ -25,15 +25,13 @@ Here are some ideas to get you started:
 <img src="mamitomoe.gif" style="display: block; margin: 0 auto" />
 </p>
 
+<br />
+
 <p align="center">
-<details>
-  <summary>
-    Visitor Count
-  </summary>
-  <p align="center">
-    <img src="https://count.getloli.com/@marechalkaiz?name=marechalkaiz&theme=booru-jaypee&padding=7&offset=0&align=top&scale=0.75&pixelated=1&darkmode=auto" />
-  </p>
-</details>
+  Visitor Count
+</p>
+<p align="center">
+  <img src="https://count.getloli.com/@marechalkaiz?name=marechalkaiz&theme=booru-jaypee&padding=7&offset=0&align=top&scale=0.75&pixelated=1&darkmode=auto" />
 </p>
 
 ---
@@ -99,63 +97,63 @@ Here are some ideas to get you started:
 
   <h3>Programming</h3> 
   <p>
-    <a href="https://go-skill-icons.vercel.app/">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,php,js,ts,c,cpp,go,java,r" />
+    <a href="">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,php,js,ts,c,cpp,go,java,rust" />
     </a>
   </p>
 
   <h3>Scripting</h3> 
   <p>
-    <a href="https://go-skill-icons.vercel.app/">
+    <a href="">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,powershell" />
     </a>
   </p>
   
   <h3>Data Science, AI, and ML</h3> 
   <p>
-    <a href="https://go-skill-icons.vercel.app/">
+    <a href="">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,polars,scipy,jax,scikitlearn,pytorch,tensorflow,jupyter,opencv,matplotlib,seaborn" />
     </a>
   </p>
 
   <h3>Frontend</h3> 
   <p>
-    <a href="https://go-skill-icons.vercel.app/">
+    <a href="">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,tailwind,bootstrap,vue" />
     </a>
   </p>
 
   <h3>Backend</h3> 
   <p>
-    <a href="https://go-skill-icons.vercel.app/">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,bun,elysia,gin,fastapi,spring" />
+    <a href="">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,nodejs,bun,elysia,gin,fastapi,spring,actix" />
     </a>
   </p>
 
   <h3>Database</h3> 
   <p>
-    <a href="https://go-skill-icons.vercel.app/">
+    <a href="">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite,mysql,mongodb,duckdb,redis" />
     </a>
   </p>
 
   <h3>DevOps</h3> 
   <p>
-    <a href="https://go-skill-icons.vercel.app/">
+    <a href="">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=podman,kubernetes" />
     </a>
   </p>
 
   <h3>Operating Systems</h3> 
   <p>
-    <a href="https://go-skill-icons.vercel.app/">
+    <a href="">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,ubuntu,windows" />
     </a>
   </p>
 
   <h3>Miscellaneous</h3> 
   <p>
-    <a href="https://go-skill-icons.vercel.app/">
+    <a href="">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=git,wsl,vscode,vscodium,vim,neovim,postman" />
     </a>
   </p>
